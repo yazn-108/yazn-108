@@ -15,7 +15,7 @@
 						</g>						
 - 👨‍💻 All of my projects are available at<br>[Currently, not available]<br>(Currently, not available)
 
-- You can ask me<br> **If you want hacked apps**
+- You can ask me<br> **The oldest websites, applications, tools related to the web or any technical feature that provides a benefit to the user.**
 
 - 📫 How to reach me
 
