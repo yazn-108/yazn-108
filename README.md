@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yazn_108" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="yazn_108" height="30" width="40" /></a>
-<a href="https://instagram.com/yazn_108" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="yazn_108" height="30" width="40" /></a>
-<a href="https://vm.tiktok.com/ZSeQgTPep/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-2.svg" alt="yazn_108" height="30" width="40" /></a>
-<a href="https://t.me/yazn108" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg" alt="yazn_108" height="30" width="40" /></a>
+<a href="https://twitter.com/yazn_108" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="yazn_108"width="40" /></a>
+<a href="https://instagram.com/yazn_108" target="blank"><img align="center" src="https://www.svgrepo.com/download/452229/instagram-1.svg" alt="yazn_108" width="40" /></a>
+<a href="https://vm.tiktok.com/ZSeQgTPep/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-2.svg" alt="yazn_108" width="40" /></a>
+<a href="https://t.me/yazn108" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
