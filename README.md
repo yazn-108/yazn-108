@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/yazn_108" target="blank"><img src="https://img.shields.io/twitter/follow/yazn_108?logo=twitter&style=for-the-badge" alt="yazn_108" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yazn_108" target="_blank"><img src="https://img.shields.io/twitter/follow/yazn_108?logo=twitter&style=for-the-badge" alt="yazn_108" /></a> </p>
 
 <p align="left"> <a href="http://instagram.com/yazn_108?utm_source=qr" target="_blank"><img src="https://img.shields.io/twitter/follow/yazn_108?logo=instagram&style=for-the-badge" alt="yazn_108" /></a> </p>
 
@@ -35,4 +35,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/>
 </a>
 <h3 align="left">Tools:</h3>
-<img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" width="80" />
+<a href="https://www.figma.com/@yazn_108">
+	<img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" width="80" />
+</a>
