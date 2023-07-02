@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="http://instagram.com/yazn_108?utm_source=qr" target="blank"><img src="https://img.shields.io/twitter/follow/yazn_108?logo=instagram&style=for-the-badge" alt="yazn_108" /></a> </p>
 
-- I’m currently learning<br>**𝗛𝗧𝗠𝗟 + 𝗖𝗦𝗦 + JS**
 						</g>						
 - 📫 How to reach me
 
