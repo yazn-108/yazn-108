@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/yazn_108" target="blank"><img src="https://img.shields.io/twitter/follow/yazn_108?logo=twitter&style=for-the-badge" alt="yazn_108" /></a> </p>
 
-<p align="left"> <a href="http://instagram.com/yazn_108?utm_source=qr" target="blank"><img src="https://img.shields.io/twitter/follow/yazn_108?logo=instagram&style=for-the-badge" alt="yazn_108" /></a> </p>
+<p align="left"> <a href="http://instagram.com/yazn_108?utm_source=qr" target="_blank"><img src="https://img.shields.io/twitter/follow/yazn_108?logo=instagram&style=for-the-badge" alt="yazn_108" /></a> </p>
 
 										
 - My Portfolio
@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yazn_108" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="yazn_108"width="30" /></a>
-<a href="https://instagram.com/yazn_108" target="blank"><img align="center" src="https://www.svgrepo.com/download/452229/instagram-1.svg" alt="yazn_108" width="30" /></a>
-<a href="https://t.me/yazn_108" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg" width="30" /></a>
+<a href="https://twitter.com/yazn_108" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="yazn_108"width="30" /></a>
+<a href="https://instagram.com/yazn_108" target="_blank"><img align="center" src="https://www.svgrepo.com/download/452229/instagram-1.svg" alt="yazn_108" width="30" /></a>
+<a href="https://t.me/yazn_108" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg" width="30" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
