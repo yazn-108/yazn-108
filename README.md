@@ -24,17 +24,17 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<a href="">
+<a href="https://harmash.com/tutorials/html/overview" target="_blank">
 	<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/>
 	
 </a>
-<a href="">
+<a href="https://harmash.com/tutorials/css/overview" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/>
 </a>
-<a href="">
+<a href="" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/>
 </a>
 <h3 align="left">Tools:</h3>
-<a href="https://www.figma.com/@yazn_108">
+<a href="https://www.figma.com/@yazn_108" target="_blank">
 	<img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" width="80" />
 </a>
