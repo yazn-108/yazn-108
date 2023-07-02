@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="http://instagram.com/yazn_108?utm_source=qr" target="blank"><img src="https://img.shields.io/twitter/follow/yazn_108?logo=instagram&style=for-the-badge" alt="yazn_108" /></a> </p>
 
-						</g>						
+										
 - 📫 How to reach me
 
  **https://yazn-108.github.io**
