@@ -14,7 +14,7 @@
 
  **https://yazn-108.github.io**
 
-- If you need technical assistance related to phones or the web, I will not hesitate to assist you with what I know. [https://t.me/yazn108](https://t.me/yazn108)
+- If you need technical assistance related to phones or the web, I will not hesitate to assist you with what I know. [https://t.me/yazn_108](https://t.me/yazn_108)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
