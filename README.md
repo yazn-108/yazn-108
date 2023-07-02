@@ -35,4 +35,4 @@
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/>
 </a>
 <h3 align="left">Tools:</h3>
-<img src="https://www.svgrepo.com/download/452202/figma.svg" alt="figma" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" width="80" />
