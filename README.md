@@ -25,6 +25,8 @@
 <a href="https://t.me/yazn108" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<h3 align="left">Tools:</h3>
+<img src="https://www.svgrepo.com/download/452202/figma.svg" alt="figma" width="40" height="40"/>
