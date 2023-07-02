@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="http://instagram.com/yazn_108?utm_source=qr" target="blank"><img src="https://img.shields.io/twitter/follow/yazn_108?logo=instagram&style=for-the-badge" alt="yazn_108" /></a> </p>
 
-- I’m currently learning<br>**𝗛𝗧𝗠𝗟 + 𝗖𝗦𝗦**
+- I’m currently learning<br>**𝗛𝗧𝗠𝗟 + 𝗖𝗦𝗦 + JS**
 						</g>						
 - 📫 How to reach me
 
- **https://yazn-108.github.io/yazn_108**
+ **https://yazn-108.github.io**
 
 - If you need technical assistance related to phones or the web, I will not hesitate to assist you with what I know. [https://t.me/yazn108](https://t.me/yazn108)
 
