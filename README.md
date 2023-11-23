@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning react and ....
 
-- 📫 How to reach me yazn_108@outlook.sa
+  <p align="center">📫 How to reach me: yazn_108@outlook.sa</p>
 
 <h3 align="center">Languages and Tools:</h3>
         <p align="center">
