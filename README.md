@@ -3,9 +3,8 @@
 
 <p align="center"> <a href="https://twitter.com/yazn_108" target="blank"><img src="https://img.shields.io/twitter/follow/yazn_108?logo=twitter&style=for-the-badge" alt="yazn_108" /></a> </p>
 
-- 🌱 I’m currently learning react and ....
-
-  <p align="center">📫 How to reach me: yazn_108@outlook.sa</p>
+<p>- 🌱 I’m currently learning react and ....</p>
+<p align="center">📫 How to reach me: yazn_108@outlook.sa</p>
 
 <h3 align="center">Languages and Tools:</h3>
         <p align="center">
