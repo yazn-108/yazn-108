@@ -34,6 +34,9 @@
 <a href="" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/>
 </a>
+<a href="" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="JavaScript" width="40" height="40"/>
+</a>
 <h3 align="left">Tools:</h3>
 <a href="https://www.figma.com/@yazn_108" target="_blank">
 	<img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" width="80" />
