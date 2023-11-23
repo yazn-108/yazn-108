@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yazn</h1>
 <h3 align="center">Front End Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/yazn_108" target="blank"><img src="https://img.shields.io/twitter/follow/yazn_108?logo=twitter&style=for-the-badge" alt="yazn_108" /></a> </p>
+<p align="center"> <a href="https://twitter.com/yazn_108" target="blank"><img src="https://img.shields.io/twitter/follow/yazn_108?logo=twitter&style=for-the-badge" alt="yazn_108" /></a> </p>
 
 - 🌱 I’m currently learning react and ....
 
