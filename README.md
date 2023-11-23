@@ -31,8 +31,8 @@
 <a href="https://harmash.com/tutorials/css/overview" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/>
 </a>
-<a href="" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/>
+<a href="" target="_blank" style="text-decoration: none;">
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="react" width="40" height="40"/>
 </a>
 <a href="" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="JavaScript" width="40" height="40"/>
