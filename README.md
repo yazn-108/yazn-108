@@ -2,11 +2,6 @@
     <h2>Hi 👋! My name is yazn and I'm a front end web developer</h2>
     <br>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=yazn-108&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yazn-108&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph">
-    </div>
-    <br>
-    <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo">
         <img width="12">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo">
@@ -51,4 +46,9 @@
     <br clear="both">
     <img src="https://raw.githubusercontent.com/yazn-108/yazn-108/36efdb9231c033b764b6b2e473550af8d7a1d88c/snake.svg" alt="Snake animation">
     <br>
+    <br>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=yazn-108&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yazn-108&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph">
+    </div>
 </div>
