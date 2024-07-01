@@ -1,98 +1,52 @@
-<h1 align="center">Hi 👋, I'm yazn</h1>
-<h3 align="center">Front End Developer</h3>
-<p align="center">
-    <a href="https://twitter.com/yazn_108" target="blank">
-        <img src="https://img.shields.io/twitter/follow/yazn_108?logo=twitter&style=for-the-badge" alt="yazn_108">
-    </a>
-</p>
-<p align="center">- 🌱 I’m currently learning react and ....</p>
-<p align="center">
-    📫 How to reach me:
-    <a href="mailto:yazn_108@outlook.sa">yazn_108@outlook.sa</a>
-</p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3"
-            width="40"
-            height="40"
-        >
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-            alt="figma"
-            width="40"
-            height="40"
-        >
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git"
-            width="40"
-            height="40"
-        >
-    </a>
-    <br>
-    <br>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5"
-            width="40"
-            height="40"
-        >
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript"
-            width="40"
-            height="40"
-        >
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react"
-            width="40"
-            height="40"
-        >
-    </a>
-    <br>
-</p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://twitter.com/yazn_108" target="blank">
-        <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="yazn_108"
-            height="30"
-            width="40"
-        >
-    </a>
-    <a href="https://t.me/@yazn_108" target="blank">
-        <img
-            align="center"
-            src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
-            alt="yazn_108"
-            height="30"
-            width="40"
-        >
-    </a>
-</p>
-<p>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=yazn-108&show_icons=true&locale=en" alt="yazn-108">
-    </p>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yazn-108&show_icons=true&locale=en&layout=compact" alt="yazn-108">
-    </p>
-    <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazn-108&" alt="yazn-108">
-    </p>
-</p>
+   <h2 align="center">Hi 👋! My name is yazn and I'm a front end web developer</h2>
+        ###
+        <div align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=yazn-108&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yazn-108&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph">
+        </div>
+        ###
+        <div align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo">
+            <img width="12">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo">
+            <img width="12">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo">
+            <img width="12">
+            <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo">
+            <img width="12">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo">
+            <img width="12">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo">
+            <img width="12">
+            <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo">
+            <img width="12">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo">
+            <img width="12">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo">
+            <img width="12">
+            <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo">
+            <img width="12">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo">
+        </div>
+        ###
+        <div align="center">
+            <a href="https://www.linkedin.com/in/yazn-frontEnd/">
+                <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo">
+            </a>
+            <a href="mailto:yazn_108@outlook.sa">
+                <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo">
+            </a>
+            <a href="https://www.instagram.com/yazn_108/">
+                <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo">
+            </a>
+            <a href="https://t.me/yazn_108">
+                <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo">
+            </a>
+            <a href="https://twitter.com/yazn_108">
+                <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo">
+            </a>
+        </div>
+        ###
+        <br clear="both">
+        <img src="https://raw.githubusercontent.com/yazn-108/yazn-108/36efdb9231c033b764b6b2e473550af8d7a1d88c/snake.svg" alt="Snake animation">
+        ###
