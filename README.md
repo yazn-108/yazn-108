@@ -26,7 +26,7 @@
     </div>
     <br>
     <div>
-        <a target="_blank" href="https://www.linkedin.com/in/yazn-frontEnd/">
+        <a target="_blank" href="https://www.linkedin.com/in/yazn-ahmed/">
             <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo">
         </a>
         <a target="_blank" href="https://t.me/yazn_108">
